@@ -12,12 +12,12 @@ Tools: Ubuntu, Visual Studio Code, Unity, Github, Windows PowerShell
 
 # PROJECTS
 
-Bias Audit Quiz
+* Bias Audit Quiz
 
 Developed an interactive quiz that evaluated bias in Human vs. AI decision-making using file I/O to read data
 from text files. Data is collected and analyzed from multiple test modes. Behavioral and algorithmic bias patterns are then saved to a report that is structured and organized
 
-Food Web Ecosystem Simulation
+* Food Web Ecosystem Simulation
 
 I developed a program in C that analyzed organism relationships using dynamic memory allocation. I implemented dynamic modification, enabling users to remove, add, and modify the program to create a
 functioning food web. Gave me the knowledge to problem solve and understanding information
