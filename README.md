@@ -1,4 +1,9 @@
-My name is Isaac Lopez and I am currently a student at the University of Illinois at Chicago
+# Hello! I am Isaac Lopez
+
+
+
+
+I am currently a student at the University of Illinois at Chicago
 
 <!--
 **isaaclopez312/isaaclopez312** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
