@@ -3,7 +3,7 @@
 
 
 
-I am currently a student at the University of Illinois at Chicago. I have a strong foundation in C++ and I am currently studying Cybersecurity in my free time so that I will be well rounded with my knowledge in Computer Science!
+I am currently a student at the University of Illinois at Chicago. I have a strong foundation in C++ and I am currently studying Cybersecurity in my free time so that I will be well rounded with my knowledge in Computer Science! I am constantly improving my technical skills and understanding the fundamentals of many different languages for team projects in the future! Creating projects is also something that I enjoy doing so I want to add more in the future. 
 
 <!--
 **isaaclopez312/isaaclopez312** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
