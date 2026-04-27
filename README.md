@@ -13,7 +13,7 @@ I am currently a student at the University of Illinois at Chicago. I have a stro
 
 
 
-# <<Connect>>
+# Connect
 
 <a href="https://www.linkedin.com/in/isaaclopez3125/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
