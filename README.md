@@ -1,9 +1,9 @@
-# Hello! I am Isaac Lopez
+# Hello! I am Isaac Lopez!
 
 
 
 
-I am currently a student at the University of Illinois at Chicago
+I am currently a student at the University of Illinois at Chicago. I have a strong foundation in C++ and I am currently studying Cybersecurity in my free time so that I will be well rounded with my knowledge in Computer Science!
 
 <!--
 **isaaclopez312/isaaclopez312** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
